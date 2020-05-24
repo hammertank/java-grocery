@@ -8,3 +8,4 @@
  * Spring Framework 
     * [Spring Boot Dependency Management with a Custom Parent](spring/README.md#Spring-Boot-Dependency-Management-with-a-Custom-Parent) 
     * [Handle URL with Too Many Params](spring/README.md#Handle-URL-with-Too-Many-Params)
+    * [Convert JPA entity attribute into database column representation](spring/README.md#Convert-JPA-entity-attribute-into-database-column-representation)
